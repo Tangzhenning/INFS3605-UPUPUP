@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03DAC5</color>
+    <color name="colorPrimaryDark">#03DAC5</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorTheme_blue">#03DAC5</color>
+    <color name="btn_color">#0FCFE8</color>
+    <color name="gray_translucent">#80888888</color>
+    <color name="gray_light_lv5">#DADADA</color>
+    <color name="black">#000000</color>
+    <color name="nav_unselect">#C8C8C8</color>
+    <color name="nav_select">#F4B905</color>
+    <color name="theme_color">#03DAC5</color>
+    <color name="cancel_color">#FF2E1F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray1">#F3F3F3</color>
+    <color name="red">#FF1100</color>
+    <color name="glay">#8B8B8B</color>
+    <color name="yellow">#E4AF12</color>
+    <color name="gray">#4E4E4E</color>
+</resources>
